@@ -1,0 +1,42 @@
+body {
+    letter-spacing: .08em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    max-height: 230px;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h2 {
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    padding-bottom: 7px;
+    font-weight: bold;
+    letter-spacing: .1em;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.list {
+    list-style-type: disc;
+}
